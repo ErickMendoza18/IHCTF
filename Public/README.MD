@@ -10,11 +10,11 @@ Informacion:
 YounWorker es una plataforma con el objetivo de reunir a empleadores y estudiantes los cuales puedan llegar a un acuerdo para que asi los estudiantes puedan realizar sus practicas preprofesionales.
 
 Autores:
-Ccapa Mamani Diego German U201823028
-Edwin Rodriguez Manchego U201817870
-Zumaeta Bustamante Piero Martin Francisco U201912505
-Antonio Salazar Jhan Clinton U20201B312
-Erick Mendoza Huaman U20191C393
+#Ccapa Mamani Diego German U201823028
+#Edwin Rodriguez Manchego U201817870
+#Zumaeta Bustamante Piero Martin Francisco U201912505
+#Antonio Salazar Jhan Clinton U20201B312
+#Erick Mendoza Huaman U20191C393
 
 Segmentos Objetivos:
 -Estudiantes universitarios
